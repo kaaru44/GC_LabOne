@@ -1,3 +1,5 @@
+//Created by Carl E Jones III.
+//For Grand Circus Java Bootcamp Fall 2018.
 import java.util.Scanner;
 public class numChecker {
 	
